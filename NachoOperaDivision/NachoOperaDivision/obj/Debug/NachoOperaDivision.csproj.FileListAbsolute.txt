@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\NachoOperaDivision\NachoOperaDivision\bin\Debug\NachoOperaDivision.dll
+C:\Users\usuario\source\repos\NachoOperaDivision\NachoOperaDivision\bin\Debug\NachoOperaDivision.pdb
+C:\Users\usuario\source\repos\NachoOperaDivision\NachoOperaDivision\obj\Debug\NachoOperaDivision.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\NachoOperaDivision\NachoOperaDivision\obj\Debug\NachoOperaDivision.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\NachoOperaDivision\NachoOperaDivision\obj\Debug\NachoOperaDivision.dll
+C:\Users\usuario\source\repos\NachoOperaDivision\NachoOperaDivision\obj\Debug\NachoOperaDivision.pdb
