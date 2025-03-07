@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\NachoOperaMultiplicacion\NachoOperaMultiplicacion\bin\Debug\NachoOperaMultiplicacion.dll
+C:\Users\usuario\source\repos\NachoOperaMultiplicacion\NachoOperaMultiplicacion\bin\Debug\NachoOperaMultiplicacion.pdb
+C:\Users\usuario\source\repos\NachoOperaMultiplicacion\NachoOperaMultiplicacion\obj\Debug\NachoOperaMultiplicacion.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\NachoOperaMultiplicacion\NachoOperaMultiplicacion\obj\Debug\NachoOperaMultiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\NachoOperaMultiplicacion\NachoOperaMultiplicacion\obj\Debug\NachoOperaMultiplicacion.dll
+C:\Users\usuario\source\repos\NachoOperaMultiplicacion\NachoOperaMultiplicacion\obj\Debug\NachoOperaMultiplicacion.pdb
