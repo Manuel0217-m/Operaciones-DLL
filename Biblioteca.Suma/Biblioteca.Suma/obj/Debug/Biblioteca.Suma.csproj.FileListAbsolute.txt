@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\Biblioteca.Suma\Biblioteca.Suma\bin\Debug\Biblioteca.Suma.dll
+C:\Users\usuario\source\repos\Biblioteca.Suma\Biblioteca.Suma\bin\Debug\Biblioteca.Suma.pdb
+C:\Users\usuario\source\repos\Biblioteca.Suma\Biblioteca.Suma\obj\Debug\Biblioteca.Suma.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Biblioteca.Suma\Biblioteca.Suma\obj\Debug\Biblioteca.Suma.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Biblioteca.Suma\Biblioteca.Suma\obj\Debug\Biblioteca.Suma.dll
+C:\Users\usuario\source\repos\Biblioteca.Suma\Biblioteca.Suma\obj\Debug\Biblioteca.Suma.pdb
