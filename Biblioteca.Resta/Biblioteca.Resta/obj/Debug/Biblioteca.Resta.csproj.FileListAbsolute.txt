@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\Biblioteca.Resta\Biblioteca.Resta\bin\Debug\Biblioteca.Resta.dll
+C:\Users\usuario\source\repos\Biblioteca.Resta\Biblioteca.Resta\bin\Debug\Biblioteca.Resta.pdb
+C:\Users\usuario\source\repos\Biblioteca.Resta\Biblioteca.Resta\obj\Debug\Biblioteca.Resta.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Biblioteca.Resta\Biblioteca.Resta\obj\Debug\Biblioteca.Resta.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Biblioteca.Resta\Biblioteca.Resta\obj\Debug\Biblioteca.Resta.dll
+C:\Users\usuario\source\repos\Biblioteca.Resta\Biblioteca.Resta\obj\Debug\Biblioteca.Resta.pdb
